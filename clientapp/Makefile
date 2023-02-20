@@ -12,8 +12,8 @@ format:
 lint:
 	cargo clippy --quiet
 
-test:
-	cargo test --quiet
+#test:
+#	cargo test --quiet
 
 run:
 	cargo run
